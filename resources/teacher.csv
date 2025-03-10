@@ -1,0 +1,278 @@
+Nom Et Prénom Enseignant,Département,Grade,Cours,TD,TP,coef,Nombre de Séances de surveillance
+Enseignant 1,5-ENERGETIQUE,Maître Assistant,0.75,0.75,0,0,0
+Enseignant 2,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,0.75,0,0,0
+Enseignant 3,1-INFORMATIQUE,Maître Assistant,6,0,0,0,0
+Enseignant 4,2-GENIE MECANIQUE,Maître de Conférences,3,1.5,0,0,0
+Enseignant 5,3-GENIE ELECTRONIQUE ,Maître de Conférences,4.5,0,0,0,0
+Enseignant 6,1-INFORMATIQUE,Ass / Vac,0,0,3,1,2
+Enseignant 7,2-GENIE MECANIQUE,Ass / Vac,0,0,3,1,2
+Enseignant 8,3-GENIE ELECTRONIQUE ,Ass / Vac,0,0,3,1,2
+Enseignant 9,2-GENIE MECANIQUE,Ass / Vac,0,0,3,1,2
+Enseignant 10,1-INFORMATIQUE,Ass / Vac,0,0,3,1,2
+Enseignant 11,1-INFORMATIQUE,Ass / Vac,0,0,3,1,2
+Enseignant 12,2-GENIE MECANIQUE,Ass / Vac,0.75,0.75,0,1,2
+Enseignant 13,1-INFORMATIQUE,Ass / Vac,0,0,4.5,1,3
+Enseignant 14,1-INFORMATIQUE,Ass / Vac,0,3,0,1,3
+Enseignant 15,1-INFORMATIQUE,Ass / Vac,0,3,0,1,3
+Enseignant 16,4-L'ADMINISTRATION,Ass / Vac,0,3,0,1,3
+Enseignant 17,1-INFORMATIQUE,Ass / Vac,0,0,6,1,5
+Enseignant 18,1-INFORMATIQUE,Ass / Vac,0,0,6,1,5
+Enseignant 19,1-INFORMATIQUE,Ass / Vac,3,0,0,1,3
+Enseignant 20,2-GENIE MECANIQUE,Ass / Vac,0,0,6,1,5
+Enseignant 21,4-L'ADMINISTRATION,Ass / Vac,1.5,1.5,0,1,3
+Enseignant 22,2-GENIE MECANIQUE,Ass / Vac,0,0,6,1,5
+Enseignant 23,1-INFORMATIQUE,Ass / Vac,0,0,7.5,1,6
+Enseignant 24,3-GENIE ELECTRONIQUE ,Ass / Vac,0,0,7.5,1,6
+Enseignant 25,2-GENIE MECANIQUE,"Cont docteur 9,5 HTD",0.315,0.315,1.26,1,2
+Enseignant 26,2-GENIE MECANIQUE,"Cont docteur 9,5 HTD",1.5,1.5,1.5,1,4
+Enseignant 27,3-GENIE ELECTRONIQUE ,M.Ass. / Vac,0,0,3,1,2
+Enseignant 28,2-GENIE MECANIQUE,Maître Assistant,0,0,3,1,2
+Enseignant 29,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,0.75,0,1,2
+Enseignant 30,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,0.75,0,1,2
+Enseignant 31,1-INFORMATIQUE,Maître Assistant,3,0,0,1,3
+Enseignant 32,5-ENERGETIQUE,Maître Assistant,1.5,1.5,0,1,3
+Enseignant 33,2-GENIE MECANIQUE,Maître Assistant,1.5,0,3,1,4
+Enseignant 34,3-GENIE ELECTRONIQUE ,Maître Assistant,3,0,0,1,3
+Enseignant 35,5-ENERGETIQUE,Maître Assistant,1.5,1.5,0,1,3
+Enseignant 36,5-ENERGETIQUE,Maître Assistant,0,0,6,1,5
+Enseignant 37,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,0.75,1.5,1,3
+Enseignant 38,5-ENERGETIQUE,Maître Assistant,1.5,1.5,0,0.5,2
+Enseignant 39,2-GENIE MECANIQUE,Maître Assistant,2.25,0.75,0,1,3
+Enseignant 40,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,2.25,0,1,4
+Enseignant 41,2-GENIE MECANIQUE,Maître Assistant,2.25,1.5,0,1,4
+Enseignant 42,5-ENERGETIQUE,Maître Assistant,0,1.5,4.5,1,5
+Enseignant 43,3-GENIE ELECTRONIQUE ,Maître Assistant,0,3,3,1,5
+Enseignant 44,3-GENIE ELECTRONIQUE ,Maître Assistant,4.5,2.25,0,1,7
+Enseignant 45,5-ENERGETIQUE,Maître Assistant,5.25,5.25,0,0.5,5
+Enseignant 46,2-GENIE MECANIQUE,"Maître Assistant 8,48 HTD",1.5,0.75,0,1,2
+Enseignant 47,2-GENIE MECANIQUE,"Maître Assistant 8,48 HTD",0,0,6,1,5
+Enseignant 48,2-GENIE MECANIQUE,"Maître Assistant 8,48 HTD",0,0,6,1,5
+Enseignant 49,2-GENIE MECANIQUE,"Maître Assistant 8,48 HTD",2.25,1.5,0,1,4
+Enseignant 50,2-GENIE MECANIQUE,Maître de Conférences,1.5,0,0,1,2
+Enseignant 51,3-GENIE ELECTRONIQUE ,Maître de Conférences,1.5,0.75,0,1,2
+Enseignant 52,3-GENIE ELECTRONIQUE ,Maître de Conférences,3,0,0,1,3
+Enseignant 53,3-GENIE ELECTRONIQUE ,Maître de Conférences,3,0,0,1,3
+Enseignant 54,4-L'ADMINISTRATION,PES / Vac,0,3,0,1,3
+Enseignant 55,4-L'ADMINISTRATION,PES / Vac,1.5,1.5,0,1,3
+Enseignant 56,4-L'ADMINISTRATION,PP Emérité- Capes14  H TD,0,1.5,0,1,2
+Enseignant 57,2-GENIE MECANIQUE,"Professeur 5,5 HC",1.5,1.5,0,1,3
+Enseignant 58,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",2.25,1.5,0,1,4
+Enseignant 59,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,0,0,1,6
+Enseignant 60,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,0,0,1,6
+Enseignant 61,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,1.5,0,1,8
+Enseignant 62,2-GENIE MECANIQUE,Professeur Technologue,0,0,7.5,1,6
+Enseignant 63,1-INFORMATIQUE,Ass / Vac,3,0,3,1,5
+Enseignant 64,1-INFORMATIQUE,Ass / Vac,2.25,2.25,0,1,5
+Enseignant 65,3-GENIE ELECTRONIQUE ,Ass / Vac,0,0,9,1,7
+Enseignant 66,3-GENIE ELECTRONIQUE ,Ass / Vac,1.5,1.5,3,1,5
+Enseignant 67,3-GENIE ELECTRONIQUE ,Ass / Vac,0,2.25,7.5,1,8
+Enseignant 68,1-INFORMATIQUE,Ass / Vac,0,6,0,1,6
+Enseignant 69,1-INFORMATIQUE,"Cont docteur 9,5 HTD",1.5,0,7.5,1,7
+Enseignant 70,1-INFORMATIQUE,Cont doctorant 6 HTD,0,0,9,1,7
+Enseignant 71,2-GENIE MECANIQUE,Maître Assistant,0,0,9,1,7
+Enseignant 72,2-GENIE MECANIQUE,Maître Assistant,3,1.5,0,1,5
+Enseignant 73,3-GENIE ELECTRONIQUE ,Maître Assistant,3.75,0.75,0,1,5
+Enseignant 74,2-GENIE MECANIQUE,Maître Assistant,3,1.5,0,1,5
+Enseignant 75,1-INFORMATIQUE,Maître Assistant,9,0,0,0.5,5
+Enseignant 76,3-GENIE ELECTRONIQUE ,"Maître Assistant 7,80 HTD",0,0.96,7.68,1,7
+Enseignant 77,2-GENIE MECANIQUE,"Maître Assistant 8,48 HTD",1.185,1.185,4.74,1,6
+Enseignant 78,2-GENIE MECANIQUE,Maitre Technologue,0.75,0.75,6,1,6
+Enseignant 79,1-INFORMATIQUE,Ass / Vac,4.5,0,0,1,5
+Enseignant 80,1-INFORMATIQUE,"Cont docteur 9,5 HTD",3,0,4.5,1,6
+Enseignant 81,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",0,0,12,1,9
+Enseignant 82,1-INFORMATIQUE,"Cont docteur 9,5 HTD",3,0,6,1,8
+Enseignant 83,1-INFORMATIQUE,"Cont docteur 9,5 HTD",1.5,6.75,0,1,8
+Enseignant 84,1-INFORMATIQUE,Cont doctorant 6 HTD,0,0,12,1,9
+Enseignant 85,1-INFORMATIQUE,Cont doctorant 6 HTD,0,0,12,1,9
+Enseignant 86,1-INFORMATIQUE,Cont doctorant 6 HTD,0,0,12,1,9
+Enseignant 87,1-INFORMATIQUE,Cont doctorant 6 HTD,0,0,12,1,9
+Enseignant 88,5-ENERGETIQUE,M.Ass. / Vac,0,0,12,1,9
+Enseignant 89,5-ENERGETIQUE,M.Ass. / Vac,0,0,12,1,9
+Enseignant 90,1-INFORMATIQUE,M.Ass. / Vac,3,0,6,1,8
+Enseignant 91,1-INFORMATIQUE,Maître Assistant,3,3,0,1,6
+Enseignant 92,2-GENIE MECANIQUE,Maître Assistant,3,3,0,1,6
+Enseignant 93,2-GENIE MECANIQUE,Maître Assistant,3,1.5,3,1,7
+Enseignant 94,3-GENIE ELECTRONIQUE ,Maître Assistant,3,3,0,1,6
+Enseignant 95,2-GENIE MECANIQUE,Maître Assistant,3,2.25,1.5,1,6
+Enseignant 96,1-INFORMATIQUE,Maître Assistant,3,3,0,1,6
+Enseignant 97,2-GENIE MECANIQUE,Maître Assistant,3,1.5,3,1,7
+Enseignant 98,5-ENERGETIQUE,Maître Assistant,1.5,1.5,6,1,8
+Enseignant 99,2-GENIE MECANIQUE,Maître Assistant,3,1.5,3,1,7
+Enseignant 100,2-GENIE MECANIQUE,Maître de Conférences,3,3,0,1,6
+Enseignant 101,2-GENIE MECANIQUE,Maître de Conférences,3,3,0,1,6
+Enseignant 102,3-GENIE ELECTRONIQUE ,Maître de Conférences,3,3,0,1,6
+Enseignant 103,2-GENIE MECANIQUE,Maître de Conférences,3,3,0,1,6
+Enseignant 104,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,0,0,1,6
+Enseignant 105,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,0,0,1,6
+Enseignant 106,1-INFORMATIQUE,"Professeur 5,5 HC",6,0,0,1,6
+Enseignant 107,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,0,0,1,6
+Enseignant 108,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",7.5,0,0,1,8
+Enseignant 109,3-GENIE ELECTRONIQUE ,Ass / Vac,2.25,0,9,1,9
+Enseignant 110,1-INFORMATIQUE,Ass / Vac,4.5,0,4.5,1,8
+Enseignant 111,1-INFORMATIQUE,Ass / Vac,2.25,0,9,1,9
+Enseignant 112,1-INFORMATIQUE,Ass / Vac,2.25,0,9,1,9
+Enseignant 113,2-GENIE MECANIQUE,Ass / Vac,0.75,0.75,12,1,11
+Enseignant 114,1-INFORMATIQUE,Assistant,6,0,0,1,6
+Enseignant 115,1-INFORMATIQUE,Assistant,6,0,0,1,6
+Enseignant 116,1-INFORMATIQUE,Assistant,0,10.5,0,1,11
+Enseignant 117,1-INFORMATIQUE,"Cont docteur 4,75 HTD",3,0,9,1,10
+Enseignant 118,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",0,0,15,1,11
+Enseignant 119,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",0,1.5,15,1,13
+Enseignant 120,1-INFORMATIQUE,"Cont docteur 9,5 HTD",0,11.25,0,1,11
+Enseignant 121,1-INFORMATIQUE,M.Ass. / Vac,2.25,0,9,1,9
+Enseignant 122,3-GENIE ELECTRONIQUE ,M.Ass. / Vac,0,0,16.5,1,12
+Enseignant 123,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 124,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 125,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 126,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 127,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 128,1-INFORMATIQUE,Maître Assistant,4.5,1.5,0,1,6
+Enseignant 129,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 130,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 131,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 132,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 133,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 134,3-GENIE ELECTRONIQUE ,Maître Assistant,6,0,0,1,6
+Enseignant 135,1-INFORMATIQUE,Maître Assistant,4.5,1.5,0,1,6
+Enseignant 136,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 137,1-INFORMATIQUE,Maître Assistant,4.5,1.5,0,1,6
+Enseignant 138,1-INFORMATIQUE,Maître Assistant,4.5,1.5,0,1,6
+Enseignant 139,1-INFORMATIQUE,Maître Assistant,4.5,1.5,0,1,6
+Enseignant 140,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 141,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 142,1-INFORMATIQUE,Maître Assistant,6,0,0,1,6
+Enseignant 143,1-INFORMATIQUE,Maître Assistant,4.5,1.5,0,0.5,3
+Enseignant 144,3-GENIE ELECTRONIQUE ,Maître Assistant,4.5,2.25,0,1,7
+Enseignant 145,3-GENIE ELECTRONIQUE ,Maître Assistant,4.5,2.25,0,1,7
+Enseignant 146,1-INFORMATIQUE,Maître Assistant,4.5,2.25,0,1,7
+Enseignant 147,1-INFORMATIQUE,Maître Assistant,4.5,2.25,0,1,7
+Enseignant 148,3-GENIE ELECTRONIQUE ,Maître Assistant,4.5,2.25,0,1,7
+Enseignant 149,3-GENIE ELECTRONIQUE ,Maître Assistant,3,0.75,6,1,8
+Enseignant 150,2-GENIE MECANIQUE,Maître Assistant,3,0.75,6,1,8
+Enseignant 151,5-ENERGETIQUE,Maître Assistant,3.75,3.75,0,1,8
+Enseignant 152,3-GENIE ELECTRONIQUE ,Maître Assistant,4.5,3,0,1,8
+Enseignant 153,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,4.5,6,1,11
+Enseignant 154,3-GENIE ELECTRONIQUE ,"Maître Assistant  8,14 HTD",2.13,1.065,8.52,1,10
+Enseignant 155,3-GENIE ELECTRONIQUE ,Maître de Conférences,6,0,0,1,6
+Enseignant 156,1-INFORMATIQUE,Maître de Conférences,6,0,0,1,6
+Enseignant 157,1-INFORMATIQUE,Maître de Conférences,6,0,0,1,6
+Enseignant 158,3-GENIE ELECTRONIQUE ,Maître de Conférences,3.75,3,0,1,7
+Enseignant 159,3-GENIE ELECTRONIQUE ,Maître de Conférences,4.5,3,0,1,8
+Enseignant 160,1-INFORMATIQUE,PP Emérite CE,0,0,15,1,11
+Enseignant 161,4-L'ADMINISTRATION,Ass / Vac,3,7.5,0,1,11
+Enseignant 162,1-INFORMATIQUE,Assistant,6.75,0,0,1,7
+Enseignant 163,3-GENIE ELECTRONIQUE ,Assistant,2.25,2.25,10.5,1,12
+Enseignant 164,1-INFORMATIQUE,Assistant,0,12,0,1,12
+Enseignant 165,1-INFORMATIQUE,"Cont docteur 9,5 HTD",6.75,0,0,1,7
+Enseignant 166,1-INFORMATIQUE,"Cont docteur 9,5 HTD",2.25,0,12,1,11
+Enseignant 167,2-GENIE MECANIQUE,"Cont docteur 9,5 HTD",3,0,12,1,12
+Enseignant 168,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",2.25,0.75,12,1,12
+Enseignant 169,1-INFORMATIQUE,"Cont docteur 9,5 HTD",3,0,12,1,12
+Enseignant 170,1-INFORMATIQUE,"Cont docteur 9,5 HTD",3,0,12,1,12
+Enseignant 171,2-GENIE MECANIQUE,"Cont docteur 9,5 HTD",0,0,19.5,1,15
+Enseignant 172,1-INFORMATIQUE,"Cont docteur 9,5 HTD",3,7.5,0,1,11
+Enseignant 173,1-INFORMATIQUE,"Cont docteur 9,5 HTD",0,12,0,1,12
+Enseignant 174,3-GENIE ELECTRONIQUE ,Maître Assistant,6.75,0,0,1,7
+Enseignant 175,1-INFORMATIQUE,Maître Assistant,6,0,3,1,8
+Enseignant 176,3-GENIE ELECTRONIQUE ,Maître Assistant,5.25,0.75,3,1,8
+Enseignant 177,1-INFORMATIQUE,Maître Assistant,6,1.5,0,1,8
+Enseignant 178,2-GENIE MECANIQUE,Maître Assistant,4.5,3.75,0,1,8
+Enseignant 179,2-GENIE MECANIQUE,Maître Assistant,4.5,3.75,0,1,8
+Enseignant 180,3-GENIE ELECTRONIQUE ,Maître Assistant,3.75,3,3,1,9
+Enseignant 181,5-ENERGETIQUE,Maître Assistant,5.25,3.75,0,1,9
+Enseignant 182,1-INFORMATIQUE,Maître Assistant,4.5,4.5,0,1,9
+Enseignant 183,5-ENERGETIQUE,Maître Assistant,3.75,3.75,3,1,10
+Enseignant 184,3-GENIE ELECTRONIQUE ,Maître Assistant,4.5,4.5,0,1,9
+Enseignant 185,5-ENERGETIQUE,Maître de Conférences,6,0.75,0,1,7
+Enseignant 186,1-INFORMATIQUE,PP Emérité- Capes14  H TD,0,0,18,1,14
+Enseignant 187,1-INFORMATIQUE,PP Emérité- Capes14  H TD,0,0,18,1,14
+Enseignant 188,1-INFORMATIQUE,PP Emérité- Capes14  H TD,0,0,18,1,14
+Enseignant 189,1-INFORMATIQUE,PP Emérité- Capes14  H TD,0,0,18,1,14
+Enseignant 190,1-INFORMATIQUE,PP Emérité- Capes14  H TD,0,0,18,1,14
+Enseignant 191,1-INFORMATIQUE,PP Emérite CE,0,0,18,1,14
+Enseignant 192,1-INFORMATIQUE,PP HC- Capes  14 H TD,0,0,18,1,14
+Enseignant 193,1-INFORMATIQUE,PP HC- Capes  14 H TD,0,0,18,1,14
+Enseignant 194,1-INFORMATIQUE,PP HC- Capes  14 H TD,0,0,18,1,14
+Enseignant 195,3-GENIE ELECTRONIQUE ,"Professeur 5,5 HC",6,3.75,0,1,10
+Enseignant 196,2-GENIE MECANIQUE,Assistant,4.5,4.5,1.5,1,10
+Enseignant 197,1-INFORMATIQUE,"Cont docteur 9,5 HTD",7.5,0,0,1,8
+Enseignant 198,1-INFORMATIQUE,"Cont docteur 9,5 HTD",6,0,4.5,1,9
+Enseignant 199,1-INFORMATIQUE,"Cont docteur 9,5 HTD",4.5,0,9,1,11
+Enseignant 200,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",4.5,0,9,1,11
+Enseignant 201,2-GENIE MECANIQUE,"Cont docteur 9,5 HTD",4.5,1.5,6,1,11
+Enseignant 202,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",2.25,1.5,13.5,1,14
+Enseignant 203,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",3,0,15,1,14
+Enseignant 204,2-GENIE MECANIQUE,"Cont docteur 9,5 HTD",3,1.5,12,1,14
+Enseignant 205,1-INFORMATIQUE,"Cont docteur 9,5 HTD",3,0,15,1,14
+Enseignant 206,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",3,1.5,12,1,14
+Enseignant 207,4-L'ADMINISTRATION,"Cont docteur 9,5 HTD",3,9,0,1,12
+Enseignant 208,5-ENERGETIQUE,Contrat Expert  5 HTD,3.75,3.75,6,1,12
+Enseignant 209,1-INFORMATIQUE,M.Ass. / Vac,0,6,13.5,1,16
+Enseignant 210,4-L'ADMINISTRATION,M.Ass. / Vac,2.25,11.25,0,1,14
+Enseignant 211,1-INFORMATIQUE,Maître Assistant,6,3,0,1,9
+Enseignant 212,3-GENIE ELECTRONIQUE ,Maître Assistant,6,3,0,1,9
+Enseignant 213,2-GENIE MECANIQUE,Maître Assistant,6,3,0,1,9
+Enseignant 214,3-GENIE ELECTRONIQUE ,Maître Assistant,6,3,0,1,9
+Enseignant 215,1-INFORMATIQUE,Maître Assistant,6,3,0,1,9
+Enseignant 216,3-GENIE ELECTRONIQUE ,Maître Assistant,3.75,5.25,4.5,1,12
+Enseignant 217,3-GENIE ELECTRONIQUE ,Maître Assistant,0,12,3,1,14
+Enseignant 218,3-GENIE ELECTRONIQUE ,Maître de Conférences,8.25,0,0,1,8
+Enseignant 219,3-GENIE ELECTRONIQUE ,Maître de Conférences,6,3.75,0,1,10
+Enseignant 220,1-INFORMATIQUE,PP Emérité- Capes14  H TD,3,0,15,1,14
+Enseignant 221,4-L'ADMINISTRATION,PP Emérité- Capes14  H TD,0,15,0,1,15
+Enseignant 222,4-L'ADMINISTRATION,PP Emérite CE,0,15,0,1,15
+Enseignant 223,1-INFORMATIQUE,PP HC- Capes  14 H TD,0,0,21,1,16
+Enseignant 224,4-L'ADMINISTRATION,Assistant,9,0,0,1,9
+Enseignant 225,2-GENIE MECANIQUE,Assistant,4.5,3.75,6,1,13
+Enseignant 226,5-ENERGETIQUE,Assistant,3,6,6,1,14
+Enseignant 227,1-INFORMATIQUE,"Cont docteur 9,5 HTD",9,0,0,1,9
+Enseignant 228,1-INFORMATIQUE,"Cont docteur 9,5 HTD",6,0,7.5,1,12
+Enseignant 229,4-L'ADMINISTRATION,M.Ass. / Vac,6,6,0,1,12
+Enseignant 230,2-GENIE MECANIQUE,Maître Assistant,6.75,1.5,3,1,11
+Enseignant 231,2-GENIE MECANIQUE,Maître Assistant,4.5,2.25,7.5,1,12
+Enseignant 232,2-GENIE MECANIQUE,Maître Assistant,6,5.25,0,1,11
+Enseignant 233,3-GENIE ELECTRONIQUE ,Maître Assistant,5.25,2.25,7.5,1,13
+Enseignant 234,2-GENIE MECANIQUE,Maître Assistant,4.5,4.5,4.5,1,12
+Enseignant 235,3-GENIE ELECTRONIQUE ,Maître Assistant,2.25,4.5,10.5,1,15
+Enseignant 236,3-GENIE ELECTRONIQUE ,Maître Assistant,6,6,0,1,12
+Enseignant 237,1-INFORMATIQUE,Maître Assistant,6,6,0,1,12
+Enseignant 238,3-GENIE ELECTRONIQUE ,Maître Assistant,2.25,6.75,7.5,1,15
+Enseignant 239,3-GENIE ELECTRONIQUE ,Maître Assistant,1.5,7.5,9,1,16
+Enseignant 240,3-GENIE ELECTRONIQUE ,Maître de Conférences,6,4.5,0,1,11
+Enseignant 241,1-INFORMATIQUE,PES Capes,4.5,0,12,1,14
+Enseignant 242,1-INFORMATIQUE,PP Emérite CE,0,16.5,0,1,17
+Enseignant 243,4-L'ADMINISTRATION,Prof. Agrégé 12H,6,6,0,1,12
+Enseignant 244,4-L'ADMINISTRATION,Technologue,3,10.5,0,1,14
+Enseignant 245,5-ENERGETIQUE,Ass / Vac,6.75,6.75,0,1,14
+Enseignant 246,1-INFORMATIQUE,Assistant,4.5,10.5,0,1,15
+Enseignant 247,1-INFORMATIQUE,"Cont docteur 9,5 HTD",7.5,5.25,0,1,13
+Enseignant 248,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",3,2.25,15,1,17
+Enseignant 249,1-INFORMATIQUE,M.Ass. / Vac,6.75,2.25,6,1,14
+Enseignant 250,1-INFORMATIQUE,M.Ass. / Vac,6,0,12,1,15
+Enseignant 251,1-INFORMATIQUE,Maître Assistant,10.5,0,0,1,11
+Enseignant 252,1-INFORMATIQUE,Maître Assistant,9,2.25,0,1,11
+Enseignant 253,3-GENIE ELECTRONIQUE ,Maître Assistant,7.5,3.75,0,1,11
+Enseignant 254,1-INFORMATIQUE,Maître Assistant,9,2.25,0,1,11
+Enseignant 255,1-INFORMATIQUE,Maître Assistant,7.5,3.75,0,1,11
+Enseignant 256,1-INFORMATIQUE,Maître Assistant,9,2.25,0,1,11
+Enseignant 257,2-GENIE MECANIQUE,Maître Assistant,8.25,3,0,1,11
+Enseignant 258,2-GENIE MECANIQUE,Maître Assistant,7.5,4.5,0,1,12
+Enseignant 259,1-INFORMATIQUE,Maître Assistant,6,0,12,1,15
+Enseignant 260,5-ENERGETIQUE,Maître Assistant,6.75,3.75,3,1,13
+Enseignant 261,1-INFORMATIQUE,Maître Assistant,6,3,6,1,14
+Enseignant 262,3-GENIE ELECTRONIQUE ,Maître de Conférences,7.5,4.5,0,1,12
+Enseignant 263,1-INFORMATIQUE,PP HC- Capes  14 H TD,6,0,12,1,15
+Enseignant 264,4-L'ADMINISTRATION,Assistant,11.25,0.75,0,1,12
+Enseignant 265,3-GENIE ELECTRONIQUE ,Assistant,5.25,3,13.5,1,18
+Enseignant 266,3-GENIE ELECTRONIQUE ,Maître Assistant,7.5,3.75,3,1,14
+Enseignant 267,1-INFORMATIQUE,Maître Assistant,7.5,3.75,3,1,14
+Enseignant 268,3-GENIE ELECTRONIQUE ,Maître Assistant,2.25,3.75,18,1,20
+Enseignant 269,4-L'ADMINISTRATION,PP Emérité- Capes14  H TD,3.75,12.75,0,1,17
+Enseignant 270,4-L'ADMINISTRATION,PP Emérite CE,5.25,9.75,0,1,15
+Enseignant 271,4-L'ADMINISTRATION,PP HC- Capes  14 H TD,3.75,12.75,0,1,17
+Enseignant 272,4-L'ADMINISTRATION,"Cont docteur 9,5 HTD",9.75,3.75,0,1,14
+Enseignant 273,3-GENIE ELECTRONIQUE ,"Cont docteur 9,5 HTD",3,2.25,21,1,21
+Enseignant 274,1-INFORMATIQUE,Maître Assistant,9,2.25,9,1,18
+Enseignant 275,4-L'ADMINISTRATION,PP HC- Capes  14 H TD,12,4.5,0,1,17
+Enseignant 276,4-L'ADMINISTRATION,PP HC Détaché  14  H TD,14.25,2.25,0,1,17
+,,,,,,,2344

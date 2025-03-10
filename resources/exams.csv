@@ -1,0 +1,11 @@
+name,date,time,duration,supervisors_needed
+Database Systems,2025-03-20,09:00,3,2
+Algorithms,2025-03-21,14:00,2.5,3
+Computer Networks,2025-03-22,10:00,2,2
+Operating Systems,2025-03-23,09:00,3,2
+Software Engineering,2025-03-24,13:00,2,3
+Artificial Intelligence,2025-03-25,09:00,3,2
+Computer Graphics,2025-03-26,14:00,2,2
+Machine Learning,2025-03-27,09:00,3,3
+Cybersecurity,2025-03-28,14:00,2.5,2
+Web Development,2025-03-29,10:00,2,2
