@@ -1,55 +1,80 @@
-Specifications Document
-Surveillance and Examination Management Application
-February 24, 2025
+# 📘 Surveillance and Examination Management Application
 
-1. Introduction
-This specifications document aims to define the functional and technical requirements of a surveillance and examination management application for a school. The application will automatically manage teachers’ surveillance workload based on their teaching hours and schedule exams for each class.
+**🗓 Date:** February 24, 2025  
 
-2. Context and Objectives
-2.1 Context
-The school wishes to automate the management of surveillance and exams to facilitate planning and reduce administrative workload.
+## 📌 Introduction  
+This project aims to develop an application for managing surveillance duties and exam scheduling in a school. The application will:  
+✅ Automatically calculate teachers' surveillance workload based on their teaching hours.  
+✅ Schedule exams for each class.  
+✅ Allow teachers to input their availability for surveillance.  
 
-2.2 Objectives
-The application should allow:
-— Automatic calculation of teachers’ surveillance workload based on their teaching hours.
-— Management of the exam schedule for each class.
-— Teachers to enter their availability for surveillance duties.
+---
 
-3. Functional Specifications
-3.1 Teacher Management
-— Each teacher has a weekly teaching workload.
-— The surveillance workload is equal to the teaching workload (e.g., 9 teaching hours = 9 surveillance hours).
+## 🎯 Context and Objectives  
 
-3.2 Exam Management
-— The application must allow the creation of an exam schedule for each class.
-— Necessary information (subject, class, teachers) can be imported via an Excel file or entered manually.
+### 📍 Context  
+The school seeks to automate surveillance and exam management to simplify planning and reduce administrative workload.  
 
-3.3 Surveillance Management
-— Teachers can enter their availability for surveillance (days and time slots).
-— The application must take these availabilities into account when assigning surveillance duties.
+### 🎯 Objectives  
+The application should enable:  
+- 📊 **Automated calculation** of teachers' surveillance workload.  
+- 🗓 **Management of the exam calendar** for each class.  
+- 📝 **Teachers to input their availability** for surveillance duties.  
 
-4. Technical Specifications
-4.1 Development Environment
-— Programming language: Python
-— Graphical interface: Flutter or JavaScript for full-stack hybrid (Electron)
-— Database: SQLite or MySQL
+---
 
-4.2 Data Import
-— The application must be able to import data from an Excel file (.xlsx format).
-— The data must be structured with the following columns: Subject, Class, Teacher.
+## ⚙️ Functional Specifications  
 
-4.3 Data Export
-— The application must allow exporting the exam schedule and surveillance planning in PDF or Excel format.
+### 👩‍🏫 Teacher Management  
+- Each teacher has a weekly teaching workload.  
+- The surveillance workload is equal to the teaching workload (e.g., **9 teaching hours = 9 surveillance hours**).  
 
-5. Constraints
-— The application must be easy to use for teachers and administrative staff.
-— Data must be secure and accessible only to authorized personnel.
+### 🏫 Exam Management  
+- The application must allow **creating an exam schedule** for each class.  
+- Necessary information (**subject, class, teachers**) can be imported via an **Excel file** or entered manually.  
 
-6. Provisional Schedule
-— Design phase: 2 weeks
-— Development phase: 2 weeks
-— Testing phase: 1 to 2 weeks
-— Deployment phase: 0.5 to 1 week
+### 🔍 Surveillance Management  
+- Teachers can **input their availability** (days and time slots).  
+- The application must **consider these availabilities** when assigning surveillance duties.  
 
-7. Conclusion
-This specifications document defines the main features and constraints of the surveillance and examination management application. It will serve as a basis for project development.
+---
+
+## 🛠 Technical Specifications  
+
+### 💻 Development Environment  
+- **Programming language:** Python 🐍  
+- **Graphical interface:** Flutter or JavaScript for full-stack hybrid (Electron)  
+- **Database:** SQLite or MySQL  
+
+### 📥 Data Import  
+- The application must support **importing data from an Excel file** (`.xlsx` format).  
+- Required columns: **Subject | Class | Teacher**  
+
+### 📤 Data Export  
+- The application must allow exporting **exam schedules and surveillance planning** in **PDF or Excel format**.  
+
+---
+
+## 🚧 Constraints  
+- The application must be **easy to use** for teachers and administrative staff.  
+- **Data security** must be ensured and accessible **only to authorized personnel**.  
+
+---
+
+## ⏳ Provisional Schedule  
+
+| Phase | Duration |
+|--------|----------|
+| **Design Phase** | 2 weeks |
+| **Development Phase** | 2 weeks |
+| **Testing Phase** | 1-2 weeks |
+| **Deployment Phase** | 0.5-1 week |
+
+---
+
+## ✅ Conclusion  
+This document defines the **main features and constraints** of the **Surveillance and Examination Management Application**. It serves as the foundation for the project's development.  
+
+---
+
+💡 **Feel free to contribute or suggest improvements!** 🚀  
