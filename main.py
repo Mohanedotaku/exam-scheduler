@@ -1,11 +1,11 @@
 import tkinter as tk
 
-from UI.ExamSchedulerApp import ExamSchedulerApp
+from UI.ExamSchedulerAppNew import ExamSchedulerAppNew
 
 
 def main():
     root = tk.Tk()
-    ExamSchedulerApp(root)
+    ExamSchedulerAppNew(root)
     root.mainloop()
 
 

@@ -1,6 +1,7 @@
 import random
 import numpy as np
 
+
 class GeneticAlgorithm:
     def __init__(self, teachers, exams, population_size=50, generations=100, mutation_rate=0.1, elite_size=5):
         self.teachers = teachers

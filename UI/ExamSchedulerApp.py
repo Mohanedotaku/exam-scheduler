@@ -4,8 +4,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-import matplotlib.dates as mdates
-import io
+import matplotlib.dates as mates
 
 from BusinessLogic.GeneticAlgorithm import GeneticAlgorithm
 
@@ -440,7 +439,7 @@ class ExamSchedulerApp:
         # Plot the chart
         self.ax.barh(range(len(exam_names)),
                      [(end - start).total_seconds() / 3600 for start, end in zip(start_dates, end_dates)],
-                     left=[mdates.date2num(start) for start in start_dates],
+                     left=[mates.date2num(start) for start in start_dates],
                      height=0.5,
                      align='center',
                      color='#4a7abc',
@@ -449,7 +448,7 @@ class ExamSchedulerApp:
         # Format the plot
         self.ax.set_yticks(range(len(exam_names)))
         self.ax.set_yticklabels(exam_names)
-        self.ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d %H:%M'))
+        self.ax.xaxis.set_major_formatter(mates.DateFormatter('%Y-%m-%d %H:%M'))
         self.fig.autofmt_xdate()
         self.ax.set_xlabel('Date and Time')
         self.ax.set_title('Exam Schedule')
